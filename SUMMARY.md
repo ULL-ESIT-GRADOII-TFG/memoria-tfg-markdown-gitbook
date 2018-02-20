@@ -1,5 +1,9 @@
 # Summary
 
+* [Despliegue en GitBook](https://casianorodriguezleon.gitbooks.io/plantilla-tfg-ull/content/)
+* [Despliegue en GitHub](https://ull-esit-gradoii-tfg.github.io/memoria-tfg-markdown-gitbook/_book/index.html)
+* [TO DO List](todo.md)
+
 * [Plantilla TFG ULL](README.md)
 * [Introducción](introduccion/README.md)
   * [Sección Uno](introduccion/seccion_uno.md)

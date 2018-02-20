@@ -1,0 +1,22 @@
+{
+  "name": "curso-gihub",
+  "version": "1.0.0",
+  "description": "### Profesorado",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etsiiull/gitbook-skeleton"
+  },
+  "keywords": [
+    "gitbook",
+    "github pages"
+  ],
+  "author": "Casiano Rodriguez-Leon <casiano.rodriguez.leon@gmail.com> (https://github.com/crguezl)",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-shell": "^0.6.3"
+  }
+}

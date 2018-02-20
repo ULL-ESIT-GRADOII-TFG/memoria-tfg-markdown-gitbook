@@ -1,0 +1,23 @@
+{
+    "plugins": [
+        "-theme-gestalt",
+        "custom-favicon",
+        "youtube",
+        "-insert-logo-link",
+        "copy-code-button"
+    ],
+    "pluginsConfig": {
+			 "theme-gestalt": {
+							"logo": "/assets/logo-ull.png",            
+							"favicon": "/assets/favicon.ico",        
+							"baseUrl": null,                
+							"excludeDefaultStyles": true,        
+							"doNotHideChildrenChapters" : false        
+					},
+    "insert-logo-link": {
+       "src": "assets/logo-ull.jpg",
+       "url": "https://www.ull.es"
+     },
+			"favicon": "assets/compthink.png"
+    }
+}
