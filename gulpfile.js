@@ -14,7 +14,8 @@ gulp.task('deploy', ['build'], shell.task(
     [ 'git add . ',
       'git ci -am "new version"', // commit changes
       //'git push --force origin master' // push changes to gitbook repo
-      'git push origin master' // push changes to gitbook repo
+      'git push origin master', // push changes to gitbook repo
+      'git push tfg master' // push changes to gitbook repo
     ]
   )
 );
