@@ -1,3 +1,9 @@
+/*
+  [~/GitBook/Library/casianorodriguezleon/plantilla-tfg-ull(master)]$ git remote -v
+  origin	https://git.gitbook.com/casianorodriguezleon/plantilla-tfg-ull.git (fetch)
+  tfg	https://github.com/ULL-ESIT-GRADOII-TFG/memoria-tfg-markdown-gitbook.git (fetch)
+*/
+
 const gulp = require('gulp');
 const shell = require('gulp-shell');
 
@@ -14,9 +20,13 @@ gulp.task('deploy', ['build'], shell.task(
     [ 'git add . ',
       'git ci -am "new version"', // commit changes
       //'git push --force origin master' // push changes to gitbook repo
-      'git push origin master', // push changes to gitbook repo
-      'git push tfg master' // push changes to gitbook repo
+      'git push tfg master' // push changes to github repo
     ]
+  )
+);
+
+gulp.task('deploygb', shell.task(
+      'git push origin master', // push changes to gitbook repo
   )
 );
 
