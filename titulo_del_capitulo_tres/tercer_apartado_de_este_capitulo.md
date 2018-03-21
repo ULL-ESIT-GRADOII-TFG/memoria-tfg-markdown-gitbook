@@ -1,1 +1,0 @@
-### Tercer apartado de este capítulo {#tercer-apartado-de-este-cap-tulo}
