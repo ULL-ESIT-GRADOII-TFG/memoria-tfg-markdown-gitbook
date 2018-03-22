@@ -32,6 +32,6 @@
 
 #### Si quiere permitir que se compartan las adaptaciones de tu obra y quieres permitir usos comerciales de tu obra (licencia de Cultura Libre) indica:
 
-![C:\Users\Usuario\Desktop\memoriaTFG_1415_LaTeX\tfg\images\by_88x31.png](export/assets/cusersusuariodesktopmemoriatfg.png)
+![C:\Users\Usuario\Desktop\memoriaTFG_1415_LaTeX\tfg\images\by_88x31.png](/assets/images/si-adaptacions-si-uso-comercial-cultura-libre.png)
 
 **© Esta obra está bajo una licencia de Creative Commons Reconocimiento 4.0 Internacional.**
