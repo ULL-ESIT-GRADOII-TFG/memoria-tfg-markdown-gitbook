@@ -10,7 +10,6 @@
   * [Licencia](licencia.md)
   * [Resumen](resumen.md)
   * [Abstract](abstract.md)
-  * [Indice General](indice-general.md)
 * [Introducción](introduccion/README.md)
   * [Sección Uno](introduccion/seccion_uno.md)
   * [Sección Dos](introduccion/seccion_dos.md)
