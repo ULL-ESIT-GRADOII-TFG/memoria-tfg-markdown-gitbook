@@ -1,4 +1,4 @@
-* Añadir gulpfile
-* Poner estilo ULL
-* Poner favicon ULL
-* Imágenes arreglar
+* Añadir gulpfile # hecho parcialmente
+* Poner estilo ULL # hecho ""
+* Poner favicon ULL # hecho
+* Imágenes arreglar # falta
