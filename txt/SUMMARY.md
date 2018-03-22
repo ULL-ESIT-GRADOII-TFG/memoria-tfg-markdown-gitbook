@@ -29,7 +29,7 @@
 * [Apéndice B.Título del Apéndice 2](apendice_btitulo_del_apendice_2/README.md)
   * [B.1.	Otro apendice: Seccion 1](apendice_btitulo_del_apendice_2/b1otro_apendice__seccion_1.md)
   * [B.2.	Otro apendice: Seccion 2](apendice_btitulo_del_apendice_2/b2otro_apendice__seccion_2.md)
-* [Bibliografía](bibliografia.md)
+* [Bibliografía](bibliografia/bibliografia.md)
 
 # Para los autores
 
