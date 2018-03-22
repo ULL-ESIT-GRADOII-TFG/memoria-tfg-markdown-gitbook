@@ -1,4 +1,5 @@
 {
+  "root": "txt",
   "language": "es",
   "author": "ULL-ESIT-GRADOII-TFG",
   "license": "MIT",
@@ -26,7 +27,6 @@
       "src": "assets/logo-ull.jpg",
       "url": "https://www.ull.es"
     },
-    "favicon": "assets/favicon.ico",
-    "root": "./txt"
+    "favicon": "assets/favicon.ico"
   }
 }
