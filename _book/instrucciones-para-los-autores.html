@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>TFG ULL · Memoria</title>
+        <title>Instrucciones para los autores · Memoria</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -59,8 +59,8 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="datos-del-tfg.html" />
     
+    <link rel="prev" href="bibliografia.md" />
     
 
     </head>
@@ -85,7 +85,7 @@
         
         
     
-        <li class="chapter active" data-level="1.1" data-path="./">
+        <li class="chapter " data-level="1.1" data-path="./">
             
                 <a href="./">
             
@@ -530,7 +530,7 @@
         
         
     
-        <li class="chapter " data-level="2.1" data-path="instrucciones-para-los-autores.html">
+        <li class="chapter active" data-level="2.1" data-path="instrucciones-para-los-autores.html">
             
                 <a href="instrucciones-para-los-autores.html">
             
@@ -612,7 +612,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >TFG ULL</a>
+        <a href="." >Instrucciones para los autores</a>
     </h1>
 </div>
 
@@ -624,13 +624,91 @@
                             
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="tfg-ull">Trabajo de Fin de Grado </h1>
-<p><img src="assets/images/ull-portada.png" alt="C:\Users\Usuario\Desktop\memoriaTFG_1415_LaTeX\tfg\images\by-nc-sa_88x31.png"></p>
-<h2 id="grado-en-ingenier&#xED;a-inform&#xE1;tica">Grado en Ingenier&#xED;a Inform&#xE1;tica</h2>
-<h1 id="t&#xED;tulo">T&#xED;tulo</h1>
-<h1 id="title-in-english"><em>Title in English</em></h1>
-<h2 id="autor">Autor</h2>
-<h2 id="la-laguna-21-de-febrero-de-2017">La Laguna, 21 de febrero de 2017</h2>
+                                <h2 id="skeleton-to-build-a-gitbook-and-deploy-it-to-github-pages">Skeleton to build a GitBook and Deploy it to GitHub Pages</h2>
+<p>Skeleton to build a book with gitbook and deploy it to GitHub pages</p>
+<h4 id="instrucciones-para-los-autores">Instrucciones para los autores</h4>
+<p>Assume you want to create a book inside the Github organization
+<code>my-organization</code> with name <code>my-repo</code>. Follow these steps:</p>
+<ul>
+<li>Install <a href="https://git-scm.com/" target="_blank">git</a></li>
+<li>Install <a href="https://nodejs.org/es/" target="_blank">NodeJS</a></li>
+<li>Install <a href="https://gulpjs.com/" target="_blank">gulp</a> globally: <code>npm i -g gulp</code></li>
+<li><p>Install <a href="https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md" target="_blank">gitbook</a> in your computer</p>
+<ul>
+<li><p>Install <code>gitbook-cli</code>:</p>
+<pre><code>      npm i -g gitbook-cli
+</code></pre></li>
+</ul>
+</li>
+<li><a href="https://github.com/join?source=header-home" target="_blank">Join GitHub</a></li>
+<li>Install <a href="https://github.com/github/hub" target="_blank">hub</a> (optional)</li>
+<li>The skeleton of the book is hosted in this repo: <a href="https://github.com/etsiiull/gitbook-skeleton" target="_blank">https://github.com/etsiiull/gitbook-skeleton</a><ul>
+<li>Fork or clone this repo <code>hub clone etsiiull/gitbook-skeleton my-repo</code></li>
+<li>Alternatively, clone the book in your machine using: <code>git clone https://github.com/etsiiull/gitbook-skeleton.git</code> </li>
+</ul>
+</li>
+<li>Modify the files <code>gulpfile.js</code> and <code>package.json</code><ul>
+<li>Substitute all the appearances of <code>etsiiull</code> by <code>my-organization</code> in <code>gulpfile.js</code>,</li>
+<li>Substitute all the appearances of <code>gitbook-skeleton</code> by <code>my-repo</code> in <code>gulpfile.js</code>, <code>package.json</code></li>
+<li>Change the <code>name</code>, <code>description</code>, author<code>,</code>keywords<code>, etc. in</code>package.json`</li>
+</ul>
+</li>
+<li>Remove the <code>origin</code> remote: <code>git remote rm origin</code><ul>
+<li>Or alternatively rename the remote <code>git remote rename origin etsiiull</code></li>
+</ul>
+</li>
+<li>Create the new repo in GitHub: <code>hub create my-organization/my-repo</code><pre><code>[~/TFGsrc/my-repo(master)]$ git remote -v
+origin    https://github.com/my-organization/my-repo.git (fetch)
+origin    https://github.com/my-organization/my-repo.git (push)
+</code></pre></li>
+<li>Push the changes: <code>git commit -am &apos;new book&apos; &amp;&amp; git push origin master</code></li>
+<li>Visit the GitHub page of your repo <code>hub browse</code></li>
+<li>In the GitHub page of your repo go to the settings of the new repo and set the <code>master</code> branch as the branch for GitHub pages</li>
+<li>Run <code>gitbook install</code> to install plugins from registry.</li>
+<li>Install the dependencies of this book/project <code>npm i</code></li>
+<li>Write in <a href="https://es.wikipedia.org/wiki/Markdown" target="_blank">markdown</a> the contents of your book</li>
+<li>Compile the book with <code>gulp build</code> to produce the HTML</li>
+<li>To deploy your book in GitHub write <code>gulp deploy</code></li>
+<li>Visit <a href="https://etsiiull.github.io/gitbook-skeleton/_book/" target="_blank">https://my-repo.github.io</a> to see the result</li>
+<li>For more details see the section <a href="gitbook.md">Markdown and GitBook</a></li>
+</ul>
+<h3 id="curso-de-markdown-y-gitbook">Curso de Markdown y GitBook</h3>
+<ul>
+<li><a href="https://casianorodriguezleon.gitbooks.io/elaboracion-de-material-docente-con-gitbook/content/" target="_blank">Apuntes de Markdown y GitBook</a> En Gitbook</li>
+<li><a href="https://ull-pfpdi-gitbook-1617.github.io/Elaboracion-de-Material-Docente-con-GitBook/" target="_blank">Apuntes de Markdown y GitBook</a> En GitHub</li>
+</ul>
+<h3 id="notas">Notas</h3>
+<p>Cuando se despliega un libro gitbook en las GitHub Pages
+yo suelo hacerlo as&#xED;:</p>
+<ol>
+<li>Crear un fichero <code>.nojekyll</code> para inhibir el uso de <code>jekyll</code><pre><code class="lang-bash">~/GitBook/Library/Import/curso-gihub(master)]$ ls <span class="hljs-_">-l</span> .nojekyll 
+-rw-r--r--  1 casiano  staff  0 17 nov 15:02 .nojekyll
+</code></pre>
+</li>
+<li>A&#xF1;adir el directorio/carpeta con los HTML generados  <code>_book/</code>  al repo<pre><code class="lang-bash">[~/GitBook/Library/Import/curso-gihub(master)]$ git add _book
+</code></pre>
+</li>
+<li>Configurar el repo remoto en GitHub para que las p&#xE1;ginas se sirvan desde la rama <code>master</code> (settings del repo, seccion gh-pages)
+<img src="resources/settingghpages.png" alt=""></li>
+<li>Poner en la ra&#xED;z del repo un fichero <code>index.html</code> que redirige a <code>_book/index.html</code> como este:<pre><code class="lang-html"> <span class="hljs-meta">&lt;!DOCTYPE HTML&gt;</span>
+ <span class="hljs-tag">&lt;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">&quot;en-US&quot;</span>&gt;</span>
+         <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
+                 <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">&quot;UTF-8&quot;</span>&gt;</span>
+                 <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">http-equiv</span>=<span class="hljs-string">&quot;refresh&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;1; url=_book/&quot;</span>&gt;</span>
+                 <span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text/javascript&quot;</span>&gt;</span><span class="javascript">
+                         <span class="hljs-built_in">window</span>.location.href = <span class="hljs-string">&quot;_book/&quot;</span>
+                 </span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+                 <span class="hljs-tag">&lt;<span class="hljs-name">title</span>&gt;</span>Page Redirection<span class="hljs-tag">&lt;/<span class="hljs-name">title</span>&gt;</span>
+         <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
+         <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+                 <span class="hljs-comment">&lt;!-- <span class="hljs-doctag">Note:</span> don&apos;t tell people to `click` the link, just tell them that it is a link. --&gt;</span>
+                 If you are not redirected automatically, follow this <span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&apos;_book/&apos;</span>&gt;</span>link to the book<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>.
+         <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+ <span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+</li>
+<li>Aseg&#xFA;rese que el directorio <code>_book</code>no es ignorado en <code>.gitignore</code> </li>
+</ol>
 
                                 
                                 </section>
@@ -642,10 +720,10 @@
 
             
                 
-                
-                <a href="datos-del-tfg.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Datos del TFG">
-                    <i class="fa fa-angle-right"></i>
+                <a href="bibliografia.md" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Bibliografía">
+                    <i class="fa fa-angle-left"></i>
                 </a>
+                
                 
             
         
@@ -654,7 +732,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"TFG ULL","level":"1.1","depth":1,"next":{"title":"Datos del TFG","level":"1.1.1","depth":2,"path":"datos-del-tfg.md","ref":"datos-del-tfg.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-theme-gestalt","custom-favicon","youtube","-insert-logo-link","copy-code-button"],"license":"MIT","root":"txt","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"theme-gestalt":{"logo":"/assets/logo-ull.png","favicon":"/assets/favicon.ico","baseUrl":null,"excludeDefaultStyles":true,"doNotHideChildrenChapters":false},"insert-logo-link":{"src":"assets/logo-ull.jpg","url":"https://www.ull.es"},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"/assets/images/favicon.ico","custom-favicon":{},"copy-code-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"ghPages":"https://ull-esit-gradoii-tfg.github.io/memoria-tfg-markdown-gitbook/_book/index.html","theme":"default","author":"ULL-ESIT-GRADOII-TFG","name":"Memoria","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"repo":"https://github.com/ULL-ESIT-GRADOII-TFG/memoria-tfg-markdown-gitbook","structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Memoria","language":"es","gitbook":"*","description":"Memoria para los TFG"},"file":{"path":"README.md","mtime":"2018-03-22T11:55:49.812Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-03-22T13:08:01.628Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Instrucciones para los autores","level":"2.1","depth":1,"next":{"title":"Despliegue de la plantilla en GitBook","level":"2.2","depth":1,"url":"https://casianorodriguezleon.gitbooks.io/plantilla-tfg-ull/content/","ref":"https://casianorodriguezleon.gitbooks.io/plantilla-tfg-ull/content/","articles":[]},"previous":{"title":"Bibliografía","level":"1.11","depth":1,"path":"bibliografia.md","ref":"bibliografia.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-theme-gestalt","custom-favicon","youtube","-insert-logo-link","copy-code-button"],"license":"MIT","root":"txt","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"theme-gestalt":{"logo":"/assets/logo-ull.png","favicon":"/assets/favicon.ico","baseUrl":null,"excludeDefaultStyles":true,"doNotHideChildrenChapters":false},"insert-logo-link":{"src":"assets/logo-ull.jpg","url":"https://www.ull.es"},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"/assets/images/favicon.ico","custom-favicon":{},"copy-code-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"ghPages":"https://ull-esit-gradoii-tfg.github.io/memoria-tfg-markdown-gitbook/_book/index.html","theme":"default","author":"ULL-ESIT-GRADOII-TFG","name":"Memoria","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"repo":"https://github.com/ULL-ESIT-GRADOII-TFG/memoria-tfg-markdown-gitbook","structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Memoria","language":"es","gitbook":"*","description":"Memoria para los TFG"},"file":{"path":"instrucciones-para-los-autores.md","mtime":"2018-03-22T13:05:55.672Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-03-22T13:08:01.628Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

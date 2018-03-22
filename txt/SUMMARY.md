@@ -1,9 +1,5 @@
 # Summary
 
-* [Despliegue en GitBook](https://casianorodriguezleon.gitbooks.io/plantilla-tfg-ull/content/)
-* [Despliegue en GitHub](https://ull-esit-gradoii-tfg.github.io/memoria-tfg-markdown-gitbook/_book/index.html)
-* [TO DO List](todo.md)
-
 * [TFG ULL](README.md)
   * [Datos del TFG](datos-del-tfg.md)
   * [Agradecimientos](agradecimientos.md)
@@ -34,3 +30,10 @@
   * [B.1.	Otro apendice: Seccion 1](apendice_btitulo_del_apendice_2/b1otro_apendice__seccion_1.md)
   * [B.2.	Otro apendice: Seccion 2](apendice_btitulo_del_apendice_2/b2otro_apendice__seccion_2.md)
 * [Bibliografía](bibliografia.md)
+
+# Para los autores
+
+* [Instrucciones para los autores](instrucciones-para-los-autores.md)
+* [Despliegue de la plantilla en GitBook](https://casianorodriguezleon.gitbooks.io/plantilla-tfg-ull/content/)
+* [Despliegue de la plantilla en GitHub](https://ull-esit-gradoii-tfg.github.io/memoria-tfg-markdown-gitbook/_book/index.html)
+* [TO DO List](todo.md)
