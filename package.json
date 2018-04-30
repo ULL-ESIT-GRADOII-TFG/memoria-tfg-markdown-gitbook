@@ -1,5 +1,5 @@
 {
-  "name": "curso-gihub",
+  "name": "dsi-1819",
   "version": "1.0.0",
   "description": "### Profesorado",
   "main": "gulpfile.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/etsiiull/gitbook-skeleton"
+    "url": "ULL-ESIT-DSI-1819/ull-esit-dsi-1819-github.io"
   },
   "keywords": [
     "gitbook",

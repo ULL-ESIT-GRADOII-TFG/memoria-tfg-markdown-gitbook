@@ -31,11 +31,11 @@ gulp.task('deploygb', shell.task(
 );
 
 gulp.task('ghrepo', shell.task( // Open a browser in the github book repo
-  'hub browse etsiiull/gitbook-skeleton'
+  'hub browse ULL-ESIT-DSI-1819/ull-esit-dsi-1819-github.io'
 ));
 
 gulp.task('apuntes', shell.task( // Open web browser in the github deployment of this book
-  'open https://etsiiull.github.io/gitbook-skeleton'
+  'hub browse'
 ));
 
 gulp.task("pre-install", shell.task([ // global dependencies
