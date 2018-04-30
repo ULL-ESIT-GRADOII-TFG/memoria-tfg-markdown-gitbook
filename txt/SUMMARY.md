@@ -7,7 +7,7 @@
   * [Resumen](resumen.md)
   * [Abstract](abstract.md)
 * [Introducción](introduccion/README.md)
-  * [Sección Uno](introduccion/seccion_uno.md)
+  * [UML](introduccion/seccion_uno.md)
   * [Sección Dos](introduccion/seccion_dos.md)
   * [Sección Tres](introduccion/seccion_tres.md)
   * [Sección Cuatro](introduccion/seccion_cuatro.md)

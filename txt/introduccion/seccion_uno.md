@@ -1,9 +1,4 @@
-### Sección Uno {#secci-n-uno}
+### Sección UML {#seccion-uno}
 
-Item 1
-
-Item 2
-
-Item 3
-
-Item 4
+* [An introduction to the Unified Modeling Language](https://www.ibm.com/developerworks/rational/library/769.html)
+* [UML Introduction](https://youtu.be/FkRwbVUVFvE) YouTube Video
