@@ -11,7 +11,7 @@
   * [Sección Dos](introduccion/seccion_dos.md)
   * [Sección Tres](introduccion/seccion_tres.md)
   * [Sección Cuatro](introduccion/seccion_cuatro.md)
-* [Título del Capítulo Dos](titulo_del_capitulo_dos/README.md)
+* [Pattern Design/Diseño de Patrones](titulo_del_capitulo_dos/README.md)
   * [Primer apartado de otro capítulo](titulo_del_capitulo_dos/primer_apartado_de_otro_capitulo.md)
 * [Título del Capítulo Tres](titulo_del_capitulo_tres/README.md)
   * [Primer apartado de este capítulo](titulo_del_capitulo_tres/primer_apartado_de_este_capitulo.md)
