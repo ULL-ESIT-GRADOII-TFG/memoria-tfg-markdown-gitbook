@@ -6,6 +6,7 @@
 
 const gulp = require('gulp');
 const shell = require('gulp-shell');
+const opn = require('opn');
 
 gulp.task('default', ['deploy']);
 
@@ -34,9 +35,10 @@ gulp.task('ghrepo', shell.task( // Open a browser in the github book repo
   'hub browse ULL-ESIT-DSI-1819/ull-esit-dsi-1819-github.io'
 ));
 
-gulp.task('apuntes', shell.task( // Open web browser in the github deployment of this book
-  'hub browse'
-));
+gulp.task('apuntes', function() {
+  return opn('https://ull-esit-dsi-1819.github.io/_book/');
+  } // Open web browser in the github deployment of this book
+);
 
 gulp.task("pre-install", shell.task([ // global dependencies
       "npm i -g gitbook-cli",
