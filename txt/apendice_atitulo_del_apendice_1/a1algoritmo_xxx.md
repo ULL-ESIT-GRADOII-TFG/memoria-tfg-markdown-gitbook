@@ -1,4 +1,4 @@
-### A.1. Cliente-Servidor API Lyrics {#a-1-algoritmo-xxx}
+### A.1. Idea: Cliente-Servidor API Lyrics {#a-1-algoritmo-xxx}
 
 ##### Posible Práctica/Clase
 
