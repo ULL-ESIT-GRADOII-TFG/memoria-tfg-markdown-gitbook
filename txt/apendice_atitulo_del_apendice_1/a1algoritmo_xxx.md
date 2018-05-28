@@ -1,5 +1,9 @@
 ### A.1. Cliente-Servidor API Lyrics {#a-1-algoritmo-xxx}
 
+##### Posible Práctica/Clase
+
+Escribir un servidor y un cliente que provee un servicio de letras de canciones
+
 * [lyric-api](https://github.com/rhnvrm/lyric-api)
     - API that returns lyrics after searching on lyrics.wikia.com based on Artist and Song.
     - [lyric-get](https://github.com/rhnvrm/lyric-api/tree/master/lyric-get)
