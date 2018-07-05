@@ -17,10 +17,9 @@ The course will be self paced. The course outline and grading policy is listed i
 * ["You Don't Know JS" (book series)](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series) anuncio
 
 
-#### [Cómo funciona Async/Await en menos de 15 minutos](https://youtu.be/u2axmPnxUoo) {#secci-n-cuatro}
+#### Curso de Ricardo Macario en YouTube sobre JS Async {#secci-n-cuatro}
 
 * Vídeo de YuTube [Cómo funciona Async/Await en menos de 15 minutos](https://youtu.be/u2axmPnxUoo) Muy recomendable
-
 * [Lista de vídeos Asíncronía en JavaScript](https://www.youtube.com/playlist?list=PLImOJ2OqvvkCuDi6E33HXMP23BvYYBHcm)
   * Vídeo Asincronía en JavaScript - Parte 1 - Sincronía y Concurrencia
     * <iframe width="560" height="315" src="https://www.youtube.com/embed/PndHsDpEfhU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
