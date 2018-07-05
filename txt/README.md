@@ -1,15 +1,12 @@
-# Trabajo de Fin de Grado {#tfg-ull}
-
+# Grado en Ingeniería Informática {#tfg-ull}
 
 ![C:\Users\Usuario\Desktop\memoriaTFG_1415_LaTeX\tfg\images\by-nc-sa_88x31.png](assets/images/ull-portada.png)
 
-## Grado en Ingeniería Informática
+## DESARROLLO DE SISTEMAS INFORMÁTICOS
 
-# DESARROLLO DE SISTEMAS INFORMÁTICOS
-
-# _DS Curso 18/19I_
+## _DSI Curso 18/19_
 
 ## CASIANO RODRÍGUEZ LEÓN
 
-## La Laguna, 21 de febrero de 2017
+## La Laguna, 2018
 
