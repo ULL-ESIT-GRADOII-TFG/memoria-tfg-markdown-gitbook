@@ -8,6 +8,7 @@ In this EdX Microsoft course you will learn the latest asynchronous features in 
 
 The course will be self paced. The course outline and grading policy is listed in Module 0. Once you have finished reading through the course overview in Module 0, you can begin learning with Module 1 - Asynchronous Fundamentals.
 
+* [GitHub Repo ULL-MII-1819/async-js con soluciones a los contenidos del curso](https://github.com/ULL-MII-1819/async-js)
 
 #### You Don't Know JS: Async & Performance  Kyle Simpson
 
