@@ -23,5 +23,7 @@ The course will be self paced. The course outline and grading policy is listed i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PndHsDpEfhU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rgmej4Jx4WM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 * Vídeo de YuTube [Cómo funciona Async/Await en menos de 15 minutos](https://youtu.be/u2axmPnxUoo) Muy recomendable
 
