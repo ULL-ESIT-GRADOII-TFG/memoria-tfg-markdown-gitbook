@@ -10,7 +10,7 @@
   * [UML](introduccion/seccion_uno.md)
   * [Async JS](introduccion/seccion_dos.md)
   * [Sección Tres](introduccion/seccion_tres.md)
-  * [Async Await](introduccion/seccion_cuatro.md)
+  * [Sección Cuatro](introduccion/seccion_cuatro.md)
 * [Capítulo II](titulo_del_capitulo_dos/README.md)
   * [Diseño de Patrones](titulo_del_capitulo_dos/primer_apartado_de_otro_capitulo.md)
 * [Capítulo Tres](titulo_del_capitulo_tres/README.md)
