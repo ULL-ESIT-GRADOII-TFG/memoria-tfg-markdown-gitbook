@@ -1,16 +1,7 @@
 ## Resumen
 
-_El objetivo de este trabajo ha sido .... bla, bla, bla bla, bla, bla bla, bla, bla_
-
-_La competencia [E6], que figura en la guía docente, indica que en la memoria del trabajo se ha de incluir: antecedentes, problemática o estado del arte, objetivos, fases y desarrollo del proyecto, conclusiones, y líneas futuras._
-
-_El documento de memoria debe tener un máximo de 50 páginas._
-
-_No se deben dejar páginas en blanco al comenzar un capítulo, ya que el documento no está pensado para sea impreso sino visionado con un lector de PDFs._
-
-_También es recomendable márgenes pequeños ya que, al firmar digitalmente por la Sede, se coloca un marco alrededor del texto original._
-
-_El tipo de letra base ha de ser de 14ptos._
+* [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
+    - In this link there is a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
 
 #### Palabras clave 
 

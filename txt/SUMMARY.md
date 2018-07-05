@@ -8,7 +8,7 @@
   * [Abstract](abstract.md)
 * [Capítulo I](introduccion/README.md)
   * [UML](introduccion/seccion_uno.md)
-  * [Sección Dos](introduccion/seccion_dos.md)
+  * [Async JS](introduccion/seccion_dos.md)
   * [Sección Tres](introduccion/seccion_tres.md)
   * [Async Await](introduccion/seccion_cuatro.md)
 * [Capítulo II](titulo_del_capitulo_dos/README.md)
