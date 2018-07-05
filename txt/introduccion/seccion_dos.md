@@ -19,5 +19,9 @@ The course will be self paced. The course outline and grading policy is listed i
 
 #### [Cómo funciona Async/Await en menos de 15 minutos](https://youtu.be/u2axmPnxUoo) {#secci-n-cuatro}
 
+* Vídeo Asincronía en JavaScript - Parte 1 - Sincronía y Concurrencia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PndHsDpEfhU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 * Vídeo de YuTube [Cómo funciona Async/Await en menos de 15 minutos](https://youtu.be/u2axmPnxUoo) Muy recomendable
 
