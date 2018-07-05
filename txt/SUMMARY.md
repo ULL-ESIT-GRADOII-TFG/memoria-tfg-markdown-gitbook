@@ -1,7 +1,7 @@
 # Summary
 
 * [DSI 18/19 ULL](README.md)
-  * [Datos del TFG](datos-del-tfg.md)
+  * [Datos de la Asignatura](datos-del-tfg.md)
   * [Agradecimientos](agradecimientos.md)
   * [Licencia](licencia.md)
   * [Resumen](resumen.md)
