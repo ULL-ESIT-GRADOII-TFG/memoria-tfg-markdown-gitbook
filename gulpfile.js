@@ -31,7 +31,7 @@ gulp.task('deploygb', shell.task(
   )
 );
 
-gulp.task('ghrepo', shell.task( // Open a browser in the github book repo
+gulp.task('browse', shell.task( // Open a browser in the github book repo
   'hub browse ULL-ESIT-DSI-1819/ull-esit-dsi-1819-github.io'
 ));
 

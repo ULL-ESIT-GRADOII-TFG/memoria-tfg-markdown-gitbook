@@ -5,11 +5,11 @@
 
 ## Grado en Ingeniería Informática
 
-# Título
+# DESARROLLO DE SISTEMAS INFORMÁTICOS
 
 # _Title in English_
 
-## Autor
+## CASIANO RODRÍGUEZ LEÓN
 
 ## La Laguna, 21 de febrero de 2017
 
