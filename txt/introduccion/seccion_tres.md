@@ -1,3 +1,5 @@
-### Sección Tres {#secci-n-tres}
+### Introducción a JavaScript 
 
-Bla, bla, bla
+#### Debugging
+
+* [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
