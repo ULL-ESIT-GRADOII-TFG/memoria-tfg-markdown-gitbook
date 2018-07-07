@@ -1,5 +1,7 @@
 ## Bibliografía {#bibliograf-a}
 
+[The Modern JavaScript Tutorial](https://javascript.info/)
+
 ACM LaTeX Style. http://www.acm.org/publications/latex style/.
 
 FACOM OS IV SSL II USER’S GUIDE, 99SP0050E5\. Technical report, 1990.
