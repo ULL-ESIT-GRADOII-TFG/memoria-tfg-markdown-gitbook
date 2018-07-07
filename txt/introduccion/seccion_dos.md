@@ -13,6 +13,7 @@ The course will be self paced. The course outline and grading policy is listed i
 #### The Fetch API
 
 * Repo [mdn/fetch-examples](https://github.com/mdn/fetch-examples). A repository of Fetch examples. See [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation).
+* [Node.js Tutorial - 15 node-fetch](https://www.youtube.com/watch?v=zT5yR2E-GGU) YouTube Vídeo
 
 #### You Don't Know JS: Async & Performance  Kyle Simpson
 
