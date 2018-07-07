@@ -10,6 +10,10 @@ The course will be self paced. The course outline and grading policy is listed i
 
 * [GitHub Repo ULL-MII-1819/async-js con soluciones a los contenidos del curso](https://github.com/ULL-MII-1819/async-js)
 
+#### The Fetch API
+
+* Repo [mdn/fetch-examples](https://github.com/mdn/fetch-examples). A repository of Fetch examples. See [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation).
+
 #### You Don't Know JS: Async & Performance  Kyle Simpson
 
 * [Book pdf](https://github.com/olafur164/Javascript_Books/blob/master/O'Reilly%20-%20You%20Don't%20Know%20JS.%20Async%20%26%20Performance.pdf)
