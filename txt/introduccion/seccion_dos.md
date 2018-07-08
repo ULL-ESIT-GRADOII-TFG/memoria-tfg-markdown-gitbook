@@ -31,6 +31,13 @@ The course will be self paced. The course outline and grading policy is listed i
   * Vídeo Asincronía en JavaScript - Parte 2 - Asincronía en JavaScript - Parte 2 - Event loop
     * <iframe width="560" height="315" src="https://www.youtube.com/embed/rgmej4Jx4WM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+#### Javascript asíncrono con Async Await
+
+Carlos Villuendas nos muestra cómo trabajar con la asincronicidad en Javascript mediante las funciones Async Await. En su ejemplo veremos lo sencillo que resulta aplicarlas y la escalabilidad que aporta a nuestro código.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/za8Z6saKVdw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 #### Libro The Modern JavaScript Tutorial
 
 * Capítulo [Promises, async/await](https://javascript.info/async)
