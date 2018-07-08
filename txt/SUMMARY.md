@@ -11,6 +11,7 @@
   * [UML](introduccion/seccion_uno.md)
   * [Async JS](introduccion/seccion_dos.md)
   * [Cookies y Sessions](introduccion/seccion_cuatro.md)
+  * [Autenticación de Usuarios](introduccion/autenticacion-de-usuarios.md)
 * [Capítulo II](titulo_del_capitulo_dos/README.md)
   * [Diseño de Patrones](titulo_del_capitulo_dos/primer_apartado_de_otro_capitulo.md)
 * [Capítulo Tres](titulo_del_capitulo_tres/README.md)
