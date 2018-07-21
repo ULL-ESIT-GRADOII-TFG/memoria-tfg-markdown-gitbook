@@ -5,6 +5,7 @@
 * [Electron Get Started](https://electronjs.org/#get-started)
     - [Electron API Demos](https://github.com/electron/electron-api-demos)
     - Observación: procura usar la versión 8.9.3 de Node.JS
+    - [Read the docs](https://github.com/electron/electron-api-demos/blob/master/docs.md)
 * [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start)
 
 #### IPC
