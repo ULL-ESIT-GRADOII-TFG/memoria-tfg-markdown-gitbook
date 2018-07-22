@@ -5,8 +5,14 @@
 * [Electron Get Started](https://electronjs.org/#get-started)
     - [Electron API Demos](https://github.com/electron/electron-api-demos)
     - Observación: procura usar la versión 8.9.3 de Node.JS
+    - Observación: no había manera de bajar electron-v2.0.4-darwin-x64.zip tardaba infinito. Al menos 4 intentos fallidos en la instalación
     - [Read the docs](https://github.com/electron/electron-api-demos/blob/master/docs.md)
 * [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start)
+
+#### Cameron Nokes Tutorials
+
+* [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron)
+* [Repo ULL-ESIT-DSI-1819/electron-tutorials](https://github.com/ULL-ESIT-DSI-1819/electron-tutorials) forked from [ccnokes/electron-tutorials](https://github.com/ccnokes/electron-tutorials)
 
 #### IPC
 
