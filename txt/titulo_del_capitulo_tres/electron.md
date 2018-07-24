@@ -11,7 +11,7 @@
 
 #### Cameron Nokes Tutorials
 
-* [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron)
+* [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron) (de pago)
 * [Repo ULL-ESIT-DSI-1819/electron-tutorials](https://github.com/ULL-ESIT-DSI-1819/electron-tutorials) forked from [ccnokes/electron-tutorials](https://github.com/ccnokes/electron-tutorials)
 
 #### IPC
