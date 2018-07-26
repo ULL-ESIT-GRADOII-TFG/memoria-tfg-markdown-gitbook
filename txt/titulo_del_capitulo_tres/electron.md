@@ -14,7 +14,7 @@
 * [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron) (de pago)
 * [Repo los ejemplos del tutorial "Build a desktop ..."](https://github.com/ULL-ESIT-DSI-1819/build-a-desktop-app-with-electron) en ULL-DSI-1819. Forked from [ccnokes/build-a-desktop-app-with-electron](https://github.com/ccnokes/build-a-desktop-app-with-electron)
 * [Repo con mis versiones de los ejemplos del tutorial "Build a desktop ..."](https://github.com/ULL-ESIT-DSI-1819/crguezl-build-a-desktop-app-with-electron) en ULL-DSI-1819
-* [Repo ULL-ESIT-DSI-1819/electron-tutorials](https://github.com/ULL-ESIT-DSI-1819/electron-tutorials) forked from [ccnokes/electron-tutorials](https://github.com/ccnokes/electron-tutorials)
+* [Repo ULL-ESIT-DSI-1819/electron-tutorials](https://github.com/ULL-ESIT-DSI-1819/electron-tutorials) forked from [ccnokes/electron-tutorials](https://github.com/ccnokes/electron-tutorials).  This is another collection of small Electron sample apps. 
 
 #### IPC
 
