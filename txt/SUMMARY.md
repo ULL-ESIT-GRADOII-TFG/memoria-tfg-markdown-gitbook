@@ -16,7 +16,7 @@
   * [Diseño de Patrones](titulo_del_capitulo_dos/primer_apartado_de_otro_capitulo.md)
 * [Capítulo III](titulo_del_capitulo_tres/README.md)
   * [Electron](titulo_del_capitulo_tres/electron.md)
-  * [Segundo apartado de este capítulo](titulo_del_capitulo_tres/segundo_apartado_de_este_capitulo.md)
+  * [Segundo apartado de este capítulo](titulo_del_capitulo_tres/atom.md)
   * [Tercer apartado de este capítulo](titulo_del_capitulo_tres/tercer_apartado_de_este_capitulo.md)
 * [Capítulo IV](titulo_del_capitulo_cuatro.md)
 * [Conclusiones y líneas futuras](conclusiones/conclusiones_y_lineas_futuras.md)
