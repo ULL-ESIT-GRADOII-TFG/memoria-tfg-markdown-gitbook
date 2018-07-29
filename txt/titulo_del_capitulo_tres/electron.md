@@ -1,6 +1,6 @@
 ### Electron  {#primer-apartado-de-este-cap-tulo}
 
-#### Quick Start
+#### Introduction/Quick Start
 
 * [Electron Get Started](https://electronjs.org/#get-started)
     - [Electron API Demos](https://github.com/electron/electron-api-demos)
@@ -8,6 +8,9 @@
     - Observación: no había manera de bajar electron-v2.0.4-darwin-x64.zip tardaba infinito. Al menos 4 intentos fallidos en la instalación
     - [Read the docs](https://github.com/electron/electron-api-demos/blob/master/docs.md)
 * [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start)
+
+* [Create Cross-Platform Desktop Node Apps with Electron May 23, 2016, By Chris Ward](https://www.sitepoint.com/desktop-node-apps-with-electron/) SitePoint
+    - Includes a packaging step
 
 #### Cameron Nokes Tutorials
 
