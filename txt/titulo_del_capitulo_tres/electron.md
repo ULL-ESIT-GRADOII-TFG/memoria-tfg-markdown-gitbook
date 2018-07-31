@@ -19,6 +19,8 @@
 * [Repo con mis versiones de los ejemplos del tutorial "Build a desktop ..."](https://github.com/ULL-ESIT-DSI-1819/crguezl-build-a-desktop-app-with-electron) en ULL-DSI-1819
 * [Repo ULL-ESIT-DSI-1819/electron-tutorials](https://github.com/ULL-ESIT-DSI-1819/electron-tutorials) forked from [ccnokes/electron-tutorials](https://github.com/ccnokes/electron-tutorials).  This is another collection of small Electron sample apps.
 
+* [Cameron: Development with Electron](https://www.youtube.com/watch?v=Y8c9b8nZxp8&list=PLkOqyUCsoGE2KwOmt698IxAerJbLLws1a) tutorial YouTube
+
 #### IPC
 
 * [Electron Documentation: IPCMain](https://electronjs.org/docs/api/ipc-main)
