@@ -12,6 +12,23 @@
 * [Create Cross-Platform Desktop Node Apps with Electron May 23, 2016, By Chris Ward](https://www.sitepoint.com/desktop-node-apps-with-electron/) SitePoint
     - Includes a packaging step
 
+
+####  Awesome Electron
+
+* [Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron#boilerplates) by Sindresorhus
+
+  - [Apps](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#apps)
+  - [Boilerplates](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#boilerplates)
+  - [Tools](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#tools)
+  - [Components](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#components)
+  - [Documentation](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#documentation)
+  - [Articles](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#articles)
+  - [Books](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#books)
+  - [Videos](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#videos)
+  - [Podcasts](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#podcasts)
+  - [Community](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#community)
+  - [Tips](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#tips)
+
 #### Cameron Nokes Tutorials
 
 * [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron) (de pago)
