@@ -13,7 +13,7 @@
     - Includes a packaging step
 
 
-####  Awesome Electron
+####  Awesome Electron by Sindresorhus
 
 * [Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron#boilerplates) by Sindresorhus
 
@@ -29,6 +29,9 @@
   - [Community](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#community)
   - [Tips](https://github.com/sindresorhus/awesome-electron/blob/master/readme.md#tips)
 
+  La app [mojibar](https://github.com/muan/mojibar) puede que sea un buen ejemplo de como hacer una manubar app
+
+  
 #### Cameron Nokes Tutorials
 
 * [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron) (de pago)
