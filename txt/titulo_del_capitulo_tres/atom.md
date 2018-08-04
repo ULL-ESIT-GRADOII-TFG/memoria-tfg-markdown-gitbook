@@ -9,5 +9,3 @@
 ### Atom y github
 
 * [GitHub and Atom](https://youtu.be/HqrkEVWBifw) YouTube Video
-
-aprendiendo modificando

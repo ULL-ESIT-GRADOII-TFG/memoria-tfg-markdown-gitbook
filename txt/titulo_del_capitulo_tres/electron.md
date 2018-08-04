@@ -30,7 +30,7 @@
 
   La app [mojibar](https://github.com/muan/mojibar) puede que sea un buen ejemplo de como hacer una manubar app
 
-  
+
 
 #### Cameron Nokes Tutorials
 
@@ -43,6 +43,14 @@
 
 * [Cameron: Development with Electron](https://www.youtube.com/watch?v=Y8c9b8nZxp8&list=PLkOqyUCsoGE2KwOmt698IxAerJbLLws1a) tutorial YouTube
 * [Lista de vídeos del curso "Development with Electron"](https://www.youtube.com/playlist?list=PLkOqyUCsoGE2KwOmt698IxAerJbLLws1a)
+
+#### services.github.com Tutorials
+
+* [Tutorials de GitHub School on Electron](https://services.github.com/on-demand/electron/)
+    - [Electron 102](https://services.github.com/on-demand/electron/package-your-app/): Package Your App for Downloads
+If you want to share your awesome app with the world, you will need to package it for easy download and installation.
+    - [Electron 103](https://services.github.com/on-demand/electron/share-your-app/): Share Your App
+Recommendations for sharing your app with potential end users..
 
 #### IPC
 
